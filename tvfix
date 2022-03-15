@@ -236,16 +236,10 @@ http://iptv.tvfix.org/hls/tyjd.m3u8
 #EXTINF:-1,天映经典(普通话)
 http://iptv.tvfix.org/hls/tyjd2.m3u8
 #EXTINF:-1,Animax
-http://iptv.tvfix.org/hls/animax.m3u8
-#EXTINF:-1,Animax(第2声道)
 http://iptv.tvfix.org/hls/animax2.m3u8
 #EXTINF:-1,Hands Up Channel
-http://iptv.tvfix.org/hls/kid.m3u8
-#EXTINF:-1,Hands Up Channel(第2声道)
 http://iptv.tvfix.org/hls/kid2.m3u8
 #EXTINF:-1,Thrill
-http://iptv.tvfix.org/hls/thrill.m3u8
-#EXTINF:-1,Thrill(第2声道)
 http://iptv.tvfix.org/hls/thrill2.m3u8
 #EXTINF:-1,TVB经典台
 http://iptv.tvfix.org/hls/tvbjd.m3u8
@@ -278,9 +272,14 @@ http://iptv.tvfix.org/hls/natlgeo.m3u8
 #EXTINF:-1,Channel V
 http://iptv.tvfix.org/hls/channelv.m3u8
 #EXTINF:-1,HBO
-http://iptv.tvfix.org/hls/hbo.m3u8
-#EXTINF:-1,HBO(第二声道）
 http://iptv.tvfix.org/hls/hbo2.m3u8
+#EXTM3U
+#EXTINF:-1,HBO Hits
+http://iptv.tvfix.org/hls/hbohits2.m3u8
+#EXTINF:-1,HBO Family
+http://iptv.tvfix.org/hls/hbofamily2.m3u8
+#EXTINF:-1,HBO Signature
+http://iptv.tvfix.org/hls/hbosignature2.m3u8
 #EXTINF:-1,星空卫视
 http://iptv.tvfix.org/hls/startv.m3u8
 #EXTINF:-1,Star Sports
